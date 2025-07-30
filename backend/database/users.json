@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1753813719207,
+    "name": "Sayan Dutta",
+    "username": "sayandutta730",
+    "email": "sayandutta.developer@gmail.com",
+    "phone": "9999999999",
+    "password": "$2b$12$OTFX9fFO.7SaE6/9V2KvC.lpTGw6ATqmRH6dFJFyVWIKX8Lx2pEmG",
+    "dob": "2000-01-01",
+    "gender": "male",
+    "location": {
+      "country": "India",
+      "city": "Kolkata"
+    },
+    "profile": {
+      "photo": "",
+      "banner": "",
+      "headline": "",
+      "education": "",
+      "work": "",
+      "skills": [],
+      "bio": "",
+      "interests": []
+    },
+    "followers": [
+      1753861386085
+    ],
+    "following": [],
+    "emailVerified": true,
+    "role": "user",
+    "profileComplete": false,
+    "accountStatus": "active",
+    "lastLogin": null,
+    "loginAttempts": 0,
+    "notifications": [],
+    "createdAt": "2025-07-29T18:28:39.207Z"
+  },
+  {
+    "id": 1753813966365,
+    "name": "Soumik Ghoshal",
+    "username": "soumikghoshal124",
+    "email": "soumik@example.com",
+    "phone": "8888888888",
+    "password": "$2b$12$V2cW0XZ0CnweHjA1c5s7u.x5gcY7RiTprRTm3GSjpvStbJ6uOd3IG",
+    "dob": "2000-02-02",
+    "gender": "male",
+    "location": {
+      "country": "India",
+      "city": "Kolkata"
+    },
+    "profile": {
+      "photo": "",
+      "banner": "",
+      "headline": "",
+      "education": "",
+      "work": "",
+      "skills": [],
+      "bio": "Demo bio for Soumik Ghoshal",
+      "interests": []
+    },
+    "followers": [],
+    "following": [],
+    "emailVerified": true,
+    "role": "user",
+    "profileComplete": false,
+    "accountStatus": "active",
+    "lastLogin": null,
+    "loginAttempts": 0,
+    "notifications": [],
+    "createdAt": "2025-07-29T18:32:46.365Z"
+  },
+  {
+    "id": 1753861386085,
+    "name": "John Doe",
+    "username": "johndoe475",
+    "email": "johndoe@example.com",
+    "phone": "1234567890",
+    "password": "$2b$12$hpWYQqiEfXsbf5A7Jp/YduEp/cw1Lmg34VbaEEzBdMdtQEjf3fOge",
+    "dob": "2000-01-01",
+    "gender": "male",
+    "location": {
+      "country": "India",
+      "city": "Kolkata"
+    },
+    "profile": {
+      "photo": "",
+      "banner": "",
+      "headline": "Developer",
+      "education": "IIT",
+      "work": "Freelancer",
+      "skills": [
+        "React",
+        "Node"
+      ],
+      "bio": "Love coding",
+      "interests": [
+        "AI",
+        "Web"
+      ]
+    },
+    "followers": [],
+    "following": [
+      1753813719207
+    ],
+    "emailVerified": true,
+    "role": "user",
+    "profileComplete": false,
+    "accountStatus": "active",
+    "lastLogin": null,
+    "loginAttempts": 0,
+    "notifications": [],
+    "createdAt": "2025-07-30T07:43:06.085Z"
+  }
+]
